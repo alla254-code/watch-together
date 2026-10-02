@@ -1,0 +1,9 @@
+{
+  "name": "watch-together",
+  "version": "1.0.0",
+  "description": "Private room screen sharing with a separate text chat",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
